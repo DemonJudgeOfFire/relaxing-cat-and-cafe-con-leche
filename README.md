@@ -1,0 +1,2 @@
+This is my first prototype of a webpage or even maybe website. It's not something that must be taken to seriously.
+I will be following the FreeCodeCamp's HTML, CSS and JavaScript beginner course (Responsive Web Design Certification) and Getting Started With The Web by Mozilla.
