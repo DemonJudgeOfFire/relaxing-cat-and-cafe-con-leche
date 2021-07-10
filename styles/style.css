@@ -1,4 +1,29 @@
-p {
-    color: red;
-
+html {
+    font-size: 10px;
+    font-family: "Source Sans Pro";
+    background-color: pink;
+}
+h1 {
+    font-size: 30px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    color: pink;
+    text-shadow: 5px 1px 2px black;
+}
+p, li {
+    font-size: 14px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+body {
+    width: 800px;
+    margin: 0 auto;
+    background-color: lightcoral;
+    padding: 0 20px 20px 20px;
+    border: 2.5px solid black;
+}
+img {
+    display: block;
+    margin: 0 auto;
 }
